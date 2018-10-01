@@ -1,8 +1,8 @@
-## my-garden app
+## my-garden app in NATIVESCRIPT
 
 Clone this repo into your local 
 
-`git clone https://desidreamer@bitbucket.org/doola101/custom-cli.git`
+`git clone https://github.com/rangaraireddy/my-garden.git`
 
 
 Now do `npm install`
