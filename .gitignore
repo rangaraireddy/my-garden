@@ -1,0 +1,10 @@
+# IDE - VSCode
+.vscode/*
+
+
+# dependencies
+/node_modules
+/app/**/*.js
+**/tns_modules
+/platforms/**/mygarden/app/**/*.js
+
